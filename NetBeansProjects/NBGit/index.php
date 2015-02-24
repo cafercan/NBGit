@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        print "dsafaf"
+        print "deneme 2"
         
         ?>
     </body>
