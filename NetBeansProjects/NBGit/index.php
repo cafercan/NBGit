@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        print "deneme 2sadadas"
+        print "deneme 2sad"
         
         ?>
     </body>
